@@ -92,12 +92,3 @@ body {
   text-decoration: none;
   font-weight: 500;
 }
-.toggle {
-  position: absolute;
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
-  cursor: pointer;
-  user-select: none;
-  font-size: 18px;
-}
